@@ -1,0 +1,4 @@
+time,total,perc_randomised,perc_vendor,count_randomised,count_vendor,apple,not_apple
+2021-09-03,2,,,0,0,0.0,0.0
+2021-09-04,0,1.0,0.0,1,0,0.0,0.0
+2021-09-05,793,1.0,0.0,1,0,0.0,0.0
